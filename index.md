@@ -1,9 +1,9 @@
 Hello 👋
 
-Warm welcome to my blog, my name is Saeed Salam, a front-end dev from Kerala, India 🇮🇳
+Welcome to my blog! My name is Saeed Salam, and I am a front-end developer from Kerala, India 🇮🇳
 
-I currently focus on React Js & Vue.js (Remix/Next & Nuxt to be more specifically).
+I currently focus on React.js and Vue.js (specifically Remix/Next and Nuxt).
 
-I will be using this space mostly to update the findings related to my work, as well as my personal opinions and reviews.
+I will use this space mostly to update you on my work-related findings, as well as my personal opinions and reviews.
 
-I do make some trips occassionally, so you can expect some clicks & write-ups related to travelling as well.
+I occasionally make some trips, so you can expect some photos and write-ups related to travelling as well.
