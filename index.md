@@ -1,6 +1,6 @@
-Hello :wave:
+Hello 👋
 
-Warm welcome to my blog, my name is Saeed Salam, a front-end dev from Kerala, India :india:
+Warm welcome to my blog, my name is Saeed Salam, a front-end dev from Kerala, India 🇮🇳
 
 I currently focus on React Js & Vue.js (Remix/Next & Nuxt to be more specifically).
 
